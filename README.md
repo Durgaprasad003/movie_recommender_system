@@ -3,6 +3,7 @@
 This is a simple and fun **movie recommendation app** built using **Python** and **Streamlit**.  
 It recommends 5 similar movies based on your selected movie.
 
+🔗 **Live Demo**: [Click here to try the app!](https://movierecommendersystem-pbwspe8cjcgxzasqms8wwp.streamlit.app/)
 ---
 
 ## 📦 Features
